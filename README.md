@@ -185,6 +185,8 @@ The `KafkaTransactionListener` component is responsible for consuming transactio
 
 ## 🚦 Development Tasks
 
+This project is structured around multiple development tasks as part of the JPMC forage program:
+
 1. **Task One**: Application boot verification and basic setup
 2. **Task Two**: Balance query implementation
 3. **Task Three**: Transaction processing
